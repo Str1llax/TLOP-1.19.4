@@ -29,7 +29,7 @@ displayName="The Legend of the Prismarine" #mandatory
 # A file name (in the root of the mod JAR) containing a logo for display
 logoFile="tlop.png" #optional
 # A text field displayed in the mod UI
-credits="Thanks for my mum for birthing me." #optional
+credits="Thanks hotpot.ai for icon." #optional
 # A text field displayed in the mod UI
 authors="Str1llax" #optional
 # Display Test controls the display for your mod in the server connection screen
